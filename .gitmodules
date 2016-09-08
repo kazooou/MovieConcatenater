@@ -1,0 +1,3 @@
+[submodule "Modules/media-for-mobile"]
+	path = Modules/media-for-mobile
+	url = https://github.com/INDExOS/media-for-mobile.git
