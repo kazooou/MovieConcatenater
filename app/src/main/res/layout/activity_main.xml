@@ -10,13 +10,6 @@
         android:layout_height="wrap_content"
         android:text="CONCAT"/>
 
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="RES"
-        android:layout_toRightOf="@id/button"/>
-
     <RelativeLayout
         android:id="@+id/coverView"
         android:layout_width="match_parent"

@@ -38,13 +38,6 @@ class MainActivity : AppCompatActivity() {
         button.setOnClickListener {
             pickVideo(requestCode1)
         }
-
-        val button2 = findViewById(R.id.button2) as Button
-        button2.setOnClickListener {
-
-
-            startConcat()
-        }
     }
 
     override fun onPause() {
